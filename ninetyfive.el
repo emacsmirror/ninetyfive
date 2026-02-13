@@ -3,7 +3,7 @@
 ;; Version: 0.2.0
 ;; Package-Requires: ((emacs "26.1") (websocket "1.12") (async "1.9.7"))
 ;; Keywords: convenience, productivity
-;; URL: https://github.com/ninetyfive-gg/ninetyfive.el
+;; URL: https://github.com/numerataz/ninetyfive.el
 
 ;; This program is free software: you can redistribute it and/or modify
 ;; it under the terms of the GNU General Public License as published by
